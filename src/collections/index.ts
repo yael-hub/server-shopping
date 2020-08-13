@@ -1,0 +1,1 @@
+export { Musician } from './musician';
